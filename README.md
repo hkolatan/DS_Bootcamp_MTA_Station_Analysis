@@ -21,7 +21,7 @@ https://git-scm.com/downloads
 ### 3. Go inside of the folder, right click and select "GitBash Here"
 ### 4. You will see a command line interface prompted. Enter the command "git init".
 Congradulations, you have now initiated the Git in your folder. Now enter the following command to connect your local folder with the remote repository:
-git remote add origin https://github.com/MamiMrl/DS-Academy-EDA.git
+git remote add origin https://github.com/hkolatan/DS_Bootcamp_MTA_Station_Analysis.git
 
 If you didn't see any error and feedback, it means the operation is sucessfull. You can check if your local repository is connected by the following command:
 git remote -v
